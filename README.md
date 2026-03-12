@@ -1,8 +1,8 @@
 # Ana Cristina Pereira
 
-## 💻 Estudante de Engenharia Informática @ Universidade de Aveiro
+## 💻 Computer Science Student @ University of Aveiro
 
-Atualmente no 3.º ano, a explorar o mundo do desenvolvimento de software e a transformar café em código funcional.
+Currently in my 3rd year, exploring the world of software development and transforming coffee into functional code. ☕✨
 
 ### 🤖 Linguagens e Tecnologias
 
