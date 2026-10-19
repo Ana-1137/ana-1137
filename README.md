@@ -27,7 +27,7 @@ Finished my bachelor's in Computer Science, now pursuing an MSc in Data Science 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ana-1137&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=Ana-1137&show_icons=true&theme=tokyonight&locale=en" 
   />
 
 <img 
