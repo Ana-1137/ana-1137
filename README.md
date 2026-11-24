@@ -34,7 +34,7 @@ Last summer I interned at Ubiwhere, on what-if scenarios for an urban digital tw
 **Master's**
 
 - Comparing machine learning models to predict concrete strength (Python, scikit-learn)
-- Anomaly detection on water-quality sensor data (Python, FastAPI, Kafka)
+- Anomaly detection on a simulated water-quality stream (Python, FastAPI, Kafka)
 - Customer and forest fire clustering (R)
 
 **Bachelor's**
