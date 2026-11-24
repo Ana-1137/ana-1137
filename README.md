@@ -29,11 +29,16 @@ Last summer I interned at Ubiwhere, on what-if scenarios for an urban digital tw
 <img alt="Docker" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
 <img alt="Linux" title="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
 
-### 📌 What I've been working on
+### 📌 Projects
+
+**Master's**
 
 - Comparing machine learning models to predict concrete strength (Python, scikit-learn)
 - Anomaly detection on water-quality sensor data (Python, FastAPI, Kafka)
 - Customer and forest fire clustering (R)
+
+**Bachelor's**
+
 - [MineForNow](https://github.com/MineForNow-TQS/MineForNow), a peer-to-peer car rental platform (Java, Spring Boot, React)
 
 ### 📫 Contact
